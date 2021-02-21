@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConditionController</string>
+    <string name="phone">手机号码</string>
+    <string name="pwd">密码</string>
+    <string name="login">登录</string>
+    <string name="agreement">我已阅读并同意</string>
+</resources>

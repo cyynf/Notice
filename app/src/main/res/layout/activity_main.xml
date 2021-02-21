@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="28dp"
+    tools:context=".MainActivity">
+
+    <cpf.notice.NoticeView
+        android:id="@+id/notice"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:delay="2000"
+        android:duration="300"
+        android:textColor="#2E58E7"
+        android:textSize="14sp" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NoticeView">
+        <attr name="android:textColor" />
+        <attr name="android:textSize" />
+        <attr name="android:duration" />
+        <attr name="android:delay" />
+    </declare-styleable>
+</resources>
